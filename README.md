@@ -1,3 +1,3 @@
 # catalago-contatos
 
-Esse é um projeto de exemplo fo ambiente de Programação Aplicada 1
+Esse é um projeto de exemplo do ambiente de Programação Aplicada 1
